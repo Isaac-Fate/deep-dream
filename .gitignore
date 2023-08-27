@@ -1,0 +1,23 @@
+# MacOS
+**/.DS_Store
+
+# Python
+**/__pycache__
+
+# Jupyter Notebook
+**/.ipynb_checkpoints
+
+# Jupyter Book
+/book
+
+# Playground
+/playground
+
+# Large data directory
+/assets
+
+# Temporary directory
+/tmp
+
+# Output directory
+/out
