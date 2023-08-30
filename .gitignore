@@ -15,6 +15,7 @@
 
 # Large data directory
 /assets
+/data
 
 # Temporary directory
 /tmp
